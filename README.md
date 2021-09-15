@@ -1,7 +1,7 @@
 # Covid-Detection
-Deep learning has applied in various domains such as energy, finance, and the medical field. In this project, we applied deep learning for COVID-19 detection. We have applied four different deep learning models: CNN model, CNN model with regularization, CNN model with Image augmentation and Transfer learning model (InceptionV3, ResNet50, VGG16) with image augmentation.
+In this project, we have applied deep learning for COVID-19 detection. We have applied four different deep learning models: CNN model, CNN model with regularization, CNN model with Image augmentation and Transfer learning model(VGG16) with image augmentation.
 
-We have built a basic CNN model with three convolutional layers coupled with max-pooling for feature extraction and downsampling the output convolution feature maps. Then, we tried to improve the model with regularization by adding a dropout of 0.3 after each hidden layers. We also applied Image augmentation with our CNN model by applying image transformations like rotation, shearing, zooming to produce a new version of the image. Finally, we used a pre-trained transfer learning model like InceptionV3, VGG16 and RestNet50, where we freeze all the network layers to fix their model parameters. We have trained all the model with a batch size of 32 and 30 epochs.
+We have built a basic CNN model with three convolutional layers coupled with max-pooling for feature extraction and downsampling the output convolution feature maps. Then, we tried to improve the model with regularization by adding a dropout of 0.3 after each hidden layers. We also applied Image augmentation with our CNN model by applying image transformations like rotation, shearing, zooming to produce a new version of the image. Finally, we used a pre-trained transfer learning model like  VGG16 and  where we freeze all the network layers to fix their model parameters. We have trained all the model with a batch size of 32 and 30 epochs.
 
 COVID-19 Chest X-ray radiography images databases from the Kaggle repository (https://www.kaggle.com/tawsifurrahman/covid19-radiography-database) are taken. The dataset consists of Chest X-ray images for COVID-19 positive cases patients 2295 patients with 1583 normal images and 712 covid images. Out of these, 1811 chest x-ray images are used for training (1266 Normal/545 COVID) and 484 images are used for testing (317 Normal/167 COVID).
 
@@ -12,9 +12,9 @@ Future Works
 Transfer learning will be used for feature extraction, and the output of corresponding transfer learning will be feed to our CNN model
 Freezing only some of the network layers of transfer learning and fine-tuning the remaining network layers of transfer learning along with our CNN model.
 The aim is to help medical practitioners helping us in battle against COVID-19 by easing the task of manual testing using Deep Learing.
+
 Problem type :- Supervised
 Algorithms used :- CNN and Transfer Learning(VGG16)
 Dataset :-  COVID X-Ray (https://github.com/ieee8023/covid-chestxray-dataset); 
-Normal X-Ray(https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 Libraries used :- Keras, Numpy, Seaborn, Matplotlib, os
 Inspired by :- https://www.youtube.com/watch?v=nHQDDAAzIsI
