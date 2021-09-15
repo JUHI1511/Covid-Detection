@@ -15,6 +15,6 @@ The aim is to help medical practitioners helping us in battle against COVID-19 b
 
 Problem type :- Supervised
 Algorithms used :- CNN and Transfer Learning(VGG16)
-Dataset :-  COVID X-Ray (https://github.com/ieee8023/covid-chestxray-dataset); 
+Dataset:https://github.com/dakshtrehan/Covid-19-Detection
 Libraries used :- Keras, Numpy, Seaborn, Matplotlib, os
 Inspired by :- https://www.youtube.com/watch?v=nHQDDAAzIsI
