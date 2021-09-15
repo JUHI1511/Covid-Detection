@@ -17,6 +17,8 @@ Our results showed that the basic CNN model has overfitting based on training/va
 ![download (1)](https://user-images.githubusercontent.com/71288590/133457935-bcfa1532-d046-4fff-841c-083281c70174.png)
 ![download](https://user-images.githubusercontent.com/71288590/133458012-e5c4357d-a255-4530-a843-5948da165165.png)
 
+### CNN Confusion Matrics
+
 ## Future Works
 
 Transfer learning will be used for feature extraction, and the output of corresponding transfer learning will be feed to our CNN model
