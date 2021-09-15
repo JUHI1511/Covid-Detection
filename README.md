@@ -13,6 +13,7 @@ Our results showed that the basic CNN model has overfitting based on training/va
 
 
 # CNN MODEL
+### CNN ACCURACY CURVE
 
 
 ## Future Works
