@@ -17,13 +17,17 @@ Our results showed that the basic CNN model has overfitting based on training/va
 ![download (1)](https://user-images.githubusercontent.com/71288590/133457935-bcfa1532-d046-4fff-841c-083281c70174.png)
 ![download](https://user-images.githubusercontent.com/71288590/133458012-e5c4357d-a255-4530-a843-5948da165165.png)
 
-### CNN Confusion Matrics
+### CNN Confusion Matrix
 ![download (4)](https://user-images.githubusercontent.com/71288590/133460225-2e8541f0-a181-4d48-bac4-cee19c0bba54.png)
 
 # VGG16 model
 ### VGG16 ACCURACY CURVE
 ![download (2)](https://user-images.githubusercontent.com/71288590/133458912-0185f046-4635-4bce-8aa4-39409e32c4f7.png)
 ![download (3)](https://user-images.githubusercontent.com/71288590/133458949-dabdb76b-09d9-44e1-988c-2e3e8cfed41b.png)
+
+### VGG16 Confusion Matrix
+![download (4)](https://user-images.githubusercontent.com/71288590/133460532-c090842b-eaf3-4fd6-9718-1ff6d9c4c722.png)
+
 
 ### Accuracy comarision table
 
