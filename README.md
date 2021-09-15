@@ -30,6 +30,7 @@ Our results showed that the basic CNN model has overfitting based on training/va
 
 
 ### Accuracy comarision table
+![Screenshot (545)](https://user-images.githubusercontent.com/71288590/133463339-c41dd235-45af-4b5c-8163-4729c2f6af7b.png)
 
 
 ## Future Works
