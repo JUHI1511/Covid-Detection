@@ -1,9 +1,9 @@
 # Covid-19-detection-with-chest-scan
 In this project, we have applied deep learning for COVID-19 detection. We have applied four different deep learning models: CNN model, CNN model with regularization, CNN model with Image augmentation and Transfer learning model(VGG16) with image augmentation.Out of which I got best accuracy with vgg16 as 97%
 
-* unordered Dataset of chest X-ray is downloaded from Kaggle.com and it is visualised for the proper understanding of the data before processing. Data augmentation is applied on the images so that it can effectively classify the covid-19 cases.
-• CNN is proposed for the detection of covid-19 and hence controls the fast spreading covid-19 cases.
-• Pre trained deep learning model that is transfer learning algorithm VGG-16 is used to increase the accuracy of the proposed mode
+* Dataset of chest X-ray is downloaded from Kaggle.com and it is visualised for the proper understanding of the data before processing. Data augmentation is applied on the images so that it can effectively classify the covid-19 cases.
+* CNN is proposed for the detection of covid-19 and hence controls the fast spreading covid-19 cases.
+* Pre trained deep learning model that is transfer learning algorithm VGG-16 is used to increase the accuracy of the proposed mode
 
 COVID-19 Chest X-ray radiography images databases from the Kaggle repository (https://www.kaggle.com/tawsifurrahman/covid19-radiography-database) are taken. The dataset consists of Chest X-ray images for COVID-19 positive cases patients 2295 patients with 1583 normal images and 712 covid images. Out of these, 1811 chest x-ray images are used for training (1266 Normal/545 COVID) and 484 images are used for testing (317 Normal/167 COVID).
 
