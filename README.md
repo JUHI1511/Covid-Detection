@@ -9,7 +9,7 @@ COVID-19 Chest X-ray radiography images databases from the Kaggle repository (ht
 
 Our results showed that the basic CNN model has overfitting based on training/validation accuracy/losses. We also noticed overfitting had been slightly reduced in the CNN model with regularization. For image augmentation with our CNN model, we observed that overfitting had been dramatically reduced. We noticed that their results are pretty similar to our CNN model with the image augmentation method for transfer learning.!
 
-**Dataset Images**
+**Dataset Ima
 ![Dataset Images](https://user-images.githubusercontent.com/71288590/133456389-d87e0d47-a654-445a-a75e-8575936df507.png)
 
 
